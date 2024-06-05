@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 
 ## Data
-Request and download Framenet Dataset 1.7 from [Website](https://framenet.icsi.berkeley.edu/fndrupal/). Name the dataset folder `fndata-1.7` and place it at the same directory level as the Python scripts.
+Request and download Framenet Dataset 1.7 from [Website](https://framenet.icsi.berkeley.edu/framenet_request_data). Name the dataset folder `fndata-1.7` and place it at the same directory level as the Python scripts.
 
 ## Preprocessing
 ### Preprocess FrameNet data
