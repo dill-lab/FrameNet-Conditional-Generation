@@ -1,0 +1,14 @@
+tqdm==4.65.0
+pandas==2.0.1
+seaborn==0.13.0
+matplotlib==3.8.1
+numpy==1.24.3
+nltk==3.8.1
+spacy==3.5.2
+pyinflect==0.5.1
+scipy==1.10.1
+torch==2.0.0+cu117
+transformers==4.38.2
+evaluate==0.4.0
+datasets==2.12.0
+scikit-learn==1.2.2
